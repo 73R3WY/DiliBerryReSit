@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dili Berry Re Sit</string>
+    <string name="delivery_receipt">Delivery Receipt</string>
+    <string name="generate">Generate</string>
+    <string name="scan">Scan</string>
+    <string name="settings">Settings</string>
+    <string name="database">Database</string>
+    <string name="exit">Exit</string>
+    <string name="delivery_receipt_generated_qr_code">Delivery Receipt Generated QR Code</string>
+</resources>
